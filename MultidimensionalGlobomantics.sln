@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MultidimensionalGlobomantics", "MultidimensionalGlobomantics\MultidimensionalGlobomantics.dwproj", "{06773AD8-8E7A-4EC3-B7EF-C705F097B868}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.ActiveCfg = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Build.0 = Development
+		{06773AD8-8E7A-4EC3-B7EF-C705F097B868}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABBD3E7D-FE68-43E7-805A-053FDB56B603}
+	EndGlobalSection
+EndGlobal
